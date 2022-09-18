@@ -1,5 +1,5 @@
 # PUI homework
 
-Deployed website: `add the URL to your deployed website`
+Deployed website: `https://parvathyanand1997.github.io/HW2-solution-parvatha`
 
-Repository link: `add the URL to this repository`
+Repository link: `https://github.com/parvathyanand1997/HW2-solution-parvatha`
