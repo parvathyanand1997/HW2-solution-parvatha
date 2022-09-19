@@ -38,8 +38,7 @@ body {
     text-align: right;
     display: flex;
     align-items: flex-end;
-    gap: 20px;
-
+    gap: 70px;
 }
 
 h1 {
@@ -47,14 +46,12 @@ h1 {
 }
 
 
-/* --------------------------------------- Buttons --------------------------------------- */
-
 /* Navigation menu buttons */
 
 .btn {
     background-color: white;
     color: black;
-    padding: 5px 20px;
+    padding: 5px 5px;
     text-align: center;
     font-size: 23px;
     border: none;
@@ -68,7 +65,6 @@ h1 {
 }
 
 
-/* Headings */
 
 
 

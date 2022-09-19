@@ -46,7 +46,7 @@ h1 {
     font-weight: lighter;
 }
 
-/* --------------------------------------- Buttons --------------------------------------- */
+
 
 /* Navigation menu buttons */
 
@@ -65,13 +65,11 @@ h1 {
 
 .btn:hover {
     background-color: yellow;
-    font-weight: bold;
+    font-weight: 700;
 }
 
-/* Add to cart buttons */
-
-
 /* --------------------------------------- Shopping Cart Page -------------------------------------- */
+
 .right-align {
     display: flex;
     align-content: flex-end;
@@ -142,6 +140,9 @@ h1 {
     border: 1px solid black;
 
 }
+
+/* checkout button */
+
 .button {
     display: flex;
     justify-content: flex-end;
@@ -158,6 +159,3 @@ h1 {
     width: 150px;
     cursor: pointer;
 }
-
-
-

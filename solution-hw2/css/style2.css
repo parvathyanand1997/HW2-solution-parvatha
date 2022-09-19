@@ -38,7 +38,7 @@ body {
     text-align: right;
     display: flex;
     align-items: flex-end;
-    gap: 20px;
+    gap: 70px;
 
 }
 
@@ -54,7 +54,7 @@ h1 {
 .btn {
     background-color: white;
     color: black;
-    padding: 5px 20px;
+    padding: 5px 5px;
     text-align: center;
     font-size: 23px;
     border: none;
@@ -64,13 +64,8 @@ h1 {
 
 .btn:hover {
     background-color: yellow;
-    font-weight: bold;
+    font-weight: 700;
 }
-
-
-
-
-
 
 
 /* --------------------------------------- Product Detail Page --------------------------------------- */
@@ -143,6 +138,8 @@ select {
     background-size: 0.65rem auto;
  }
 
+ /* Add to cart buttons */
+ 
  #btn2 {   
     background-color: yellow;
     color: black;
