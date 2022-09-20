@@ -89,7 +89,7 @@ h1 {
     gap: 20px;
 }
 
-.cart-1,.cart-2 {
+.cart-item {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
